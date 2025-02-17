@@ -24,6 +24,7 @@ var name1;
 function myFunction() {
   let myVariable = 5000;
   console.log(" Log 2  " + myVariable);
+  console.log("hi");
 }
 
 myFunction();
